@@ -26,11 +26,7 @@ if (difficulty === 1) {
 
         divEl.addEventListener ("click",
             function click() {
-                if (divEl.classList[1] === "backgroundlightblue") {
-                    divEl.classList.remove("backgroundlightblue")
-                } else {
-                    divEl.classList.add("backgroundlightblue");
-                }
+                divEl.classList.add("backgroundlightblue");
             }
         )
     }
@@ -42,11 +38,7 @@ if (difficulty === 1) {
 
         divEl.addEventListener ("click",
             function click() {
-                if (divEl.classList[1] === "backgroundlightblue") {
-                    divEl.classList.remove("backgroundlightblue")
-                } else {
-                    divEl.classList.add("backgroundlightblue");
-                }
+                divEl.classList.add("backgroundlightblue");
             }
         )
     }
@@ -58,11 +50,7 @@ if (difficulty === 1) {
 
         divEl.addEventListener ("click",
             function click() {
-                if (divEl.classList[1] === "backgroundlightblue") {
-                    divEl.classList.remove("backgroundlightblue")
-                } else {
-                    divEl.classList.add("backgroundlightblue");
-                }
+                divEl.classList.add("backgroundlightblue");
             }
         )
     }
